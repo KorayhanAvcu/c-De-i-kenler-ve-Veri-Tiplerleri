@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\bin\Debug\net7.0\deneme.exe
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\bin\Debug\net7.0\deneme.deps.json
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\bin\Debug\net7.0\deneme.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\bin\Debug\net7.0\deneme.dll
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\bin\Debug\net7.0\deneme.pdb
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\deneme.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\deneme.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\deneme.dll
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\refint\deneme.dll
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\deneme.pdb
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\deneme.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\Değişkenler\deneme\obj\Debug\net7.0\ref\deneme.dll
